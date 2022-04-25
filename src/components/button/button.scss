@@ -1,0 +1,31 @@
+.button {
+    padding: 30px 60px;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+
+.button-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.green {
+    background-color: rgb(88, 209, 88);
+}
+
+.blue {
+    background-color: rgb(77, 77, 194);
+}
+
+.ButtonArray-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}

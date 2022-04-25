@@ -1,0 +1,19 @@
+.cat-holder-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.cat-holder {
+    border-radius: 100%;
+    border: 1px solid black;
+    padding: 30px;
+    overflow: hidden;
+
+    img {
+        width: 200px;
+        height: 200px;
+        
+    }
+}
